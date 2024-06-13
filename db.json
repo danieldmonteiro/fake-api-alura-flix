@@ -1,0 +1,88 @@
+{
+  "data-carrusel": [
+    {
+      "id": "FR-00",
+      "formacion": "FRONT END",
+      "color": "#6BD1FF",
+      "videos": [
+        {
+          "titulo": "O que faz uma desenvolvedora front-end?",
+          "urlVideos": "https://www.youtube.com/watch?v=ZY3-MFxVdEw",
+          "urlImagen": "https://img.youtube.com/vi/ZY3-MFxVdEw/maxresdefault.jpg",
+          "descripcion": "Video Front",
+          "id": 1
+        },
+        {
+          "titulo": "Como deixar o Layout Responsivo no seu site",
+          "urlVideos": "https://www.youtube.com/watch?v=kyFiT4ofMwk",
+          "urlImagen": "https://img.youtube.com/vi/kyFiT4ofMwk/maxresdefault.jpg",
+          "descripcion": "Video Front",
+          "id": 2
+        },
+        {
+          "titulo": "Se prepare para entrevistas de vagas de Front-End",
+          "urlVideos": "https://www.youtube.com/watch?v=GEljZeWTVec",
+          "urlImagen": "https://img.youtube.com/vi/GEljZeWTVec/maxresdefault.jpg",
+          "descripcion": "Video Front",
+          "id": 3
+        }
+      ]
+    },
+    {
+      "id": "BA-00",
+      "formacion": "BACK END",
+      "color": "#00C86F",
+      "videos": [
+        {
+          "titulo": "Qual é a melhor linguagem de programação?",
+          "urlVideos": "https://www.youtube.com/watch?v=Uh-GNH-t89w",
+          "urlImagen": "https://img.youtube.com/vi/Uh-GNH-t89w/maxresdefault.jpg",
+          "descripcion": "Video Back End",
+          "id": 4
+        },
+        {
+          "titulo": "Como usar a API do ChatGPT com PYTHON na PRÁTICA!",
+          "urlVideos": "https://www.youtube.com/watch?v=FqztWwPIrKo",
+          "urlImagen": "https://img.youtube.com/vi/VQZWtBW-Vbs/maxresdefault.jpg",
+          "descripcion": "Video",
+          "id": 5
+        },
+        {
+          "titulo": "O que é o C#?",
+          "urlVideos": "https://www.youtube.com/watch?v=0JWMVc1CqpA",
+          "urlImagen": "https://img.youtube.com/vi/0JWMVc1CqpA/maxresdefault.jpg",
+          "descripcion": "Video",
+          "id": 6
+        }
+      ]
+    },
+    {
+      "id": "IN-00",
+      "formacion": "MOBILE",
+      "color": "#FFBA05",
+      "videos": [
+        {
+          "titulo": "Desenvolvimento Android",
+          "urlVideos": "https://www.youtube.com/watch?v=fWscDFHKgw8",
+          "urlImagen": "https://img.youtube.com/vi/fWscDFHKgw8/maxresdefault.jpg",
+          "descripcion": "Video Mobile",
+          "id": 7
+        },
+        {
+          "titulo": "ConstraintLayout no Android",
+          "urlVideos": "https://www.youtube.com/watch?v=p4fiAiiPi3E",
+          "urlImagen": "https://img.youtube.com/vi/p4fiAiiPi3E/maxresdefault.jpg",
+          "descripcion": "Video Mobile",
+          "id": 8
+        },
+        {
+          "titulo": "Guia de Carreira: iOS",
+          "urlVideos": "https://www.youtube.com/watch?v=UrD_PIjNuEo",
+          "urlImagen": "https://img.youtube.com/vi/UrD_PIjNuEo/maxresdefault.jpg",
+          "descripcion": "Video Mobile",
+          "id": 9
+        }
+      ]
+    }
+  ]
+}
